@@ -1,1 +1,0 @@
-# msft-rust-training-sols
